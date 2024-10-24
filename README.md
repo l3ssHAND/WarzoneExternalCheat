@@ -1,22 +1,21 @@
-# WarZoneDominator
-New Updated Call of Duty: Warzone 3.0 Cheat For New Season!
-This "Dominator" Cheat Menu Has Features Such As Unlocking All Operators, Unlock All Camos, Blueprints, Attachments, Customizable ESP, Aimbot, Wall Hack + More! Working & Bypassing the latest RICOCHET Anti Cheat for Season 4 of Warzone! With This Cheat Menu For Season 4 of Warzone 2, You Can Play With Your Favorite Weapon Camos and Operators On The Latest Update Flawlessly!
+Nouvelle mise à jour de Call of Duty: Warzone 3.0 Cheer pour la nouvelle saison !
+Ce menu de triche « Dominator » comporte des fonctionnalités telles que le déverrouillage de tous les opérateurs, le déverrouillage de tous les camouflages, les plans, les pièces jointes, l'ESP personnalisable, l'Aimbot, le piratage mural et plus encore ! Travailler et contourner le dernier anti-triche RICOCHET pour la saison 4 de Warzone ! Avec ce menu de triche pour la saison 4 de Warzone 2, vous pouvez jouer parfaitement avec vos camouflages d'armes et opérateurs préférés sur la dernière mise à jour !
 
 
-![image](https://github.com/asye7sjhnbr/WarZoneD0minator/assets/163637529/af35f8e8-7a8a-4e78-9349-2c31c9a59184)
 
 
-## Cheat Menu Features:
-- Fully Bypassed Ricochet Anti Cheat
-- Working for Season 4!
-- Unlock All Weapon Camos
-- Unlock All Operator Camos
-- Unlock All Weapon Attachments
-- Unlock All Blueprints
-- Fully Customizable Wallhack
+![image](https://github.com/heyilljas7/WarzoneExternalCheat/assets/170230554/fe430c67-6d11-4bdb-80cd-7e947a7abd9c)
+
+
+## Fonctionnalités du menu de triche :
+- Anti-triche Ricochet entièrement contourné
+- Je travaille pour la saison 4 !
+- Débloquez tous les camouflages d'armes
+- Débloquez tous les camouflages d'opérateur
+- Débloquez toutes les pièces jointes d'armes
+- Débloquez tous les plans
+- Wallhack entièrement personnalisable
 - Aimbot
-- No Recoil
-- 400 FOV
-- +100 More!
-
-
+- Pas de recul
+- 400 champs de vision
+- +100 Plus !
